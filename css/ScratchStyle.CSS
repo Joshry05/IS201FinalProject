@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(153, 218, 151);
+    text-align: center;
+}
+Header{
+    position: relative;
+   background-image:url("../assets/img/Photo3.jpg");
+}
+.container-0{
+    width:90%;
+    height: 600px;
+    position:fixed, center;
+}
+
+:root{
+    font-family: 'Varela Round', sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+img{
+    Width: 50%;
+    height: auto;
+}
+ul{
+    list-style: none;
+    height: 100%;
+    width:100%;
+    background-color: rgb(169, 169, 169);
+    color:rgb(62, 62, 62);
+    text-align: center;
+    position: fixed,center;
+}
+li{
+    text-align: center;
+    text-emphasis-color: white ;
+}
+
+
